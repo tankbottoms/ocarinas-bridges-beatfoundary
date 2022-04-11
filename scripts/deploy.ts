@@ -34,7 +34,7 @@ async function main(): Promise<void> {
     console.log(gasPrice, gasLimit);            
     console.log(`Verify using:` + `\n` + 
         `npx hardhat verify --network rinkeby ` + `${Token.address} ` + 
-        `"${tokenName}" "${owner}" "${owner}"`
+        `"${tokenName}" "${tokenSymbol}" "${owner}" "${owner}"`
         );    
 };
 
