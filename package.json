@@ -1,11 +1,11 @@
 {
-  "name": "OneOf-Token",
+  "name": "Ocarinas-Bridges",
   "version": "0.0.1",
   "author": {
     "name": "@tankbottoms",
     "url": "https://oneof.xyz"
   },
-  "description": "OneOf Foundation Token",
+  "description": "",
   "license": "MIT",
   "scripts": {
     "build": "npm run compile",
@@ -78,6 +78,7 @@
   "dependencies": {
     "@openzeppelin/contracts": "^4.5.0",
     "glob": "^7.1.7",
+    "midifile-ts": "^1.4.0",
     "moment": "^2.29.1"
   }
 }

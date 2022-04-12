@@ -1775,6 +1775,7 @@ __metadata:
     hardhat: ^2.3.0
     hardhat-gas-reporter: ^1.0.4
     lint-staged: ^11.0.0
+    midifile-ts: ^1.4.0
     mocha: ^8.4.0
     moment: ^2.29.1
     prettier: ^2.3.0
@@ -9620,6 +9621,13 @@ fsevents@~2.3.1:
     braces: ^3.0.1
     picomatch: ^2.2.3
   checksum: bc522ad93c086aa176f50fea2dc8060a8f7d7a621c811cf9ba02a1912577cc100190508166d721231465f10a575a40ec8a1bffc23bbc2c0108fcbf02e4be04ed
+  languageName: node
+  linkType: hard
+
+"midifile-ts@npm:^1.4.0":
+  version: 1.4.0
+  resolution: "midifile-ts@npm:1.4.0"
+  checksum: 7d807c6bb7e73e204818bf222ad1bee8ee1e93ead3e1fd66f844c18c285e9293793fa9a32173386d8a7fc390808b28927cc5c475eb59f8dd20daa60185e62041
   languageName: node
   linkType: hard
 
